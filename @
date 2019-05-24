@@ -1,0 +1,2 @@
+        player.physicsBody = SKPhysicsBody(texture: player.texture!, size: player.size)
+

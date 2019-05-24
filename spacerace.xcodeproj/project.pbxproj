@@ -14,6 +14,8 @@
 		205E73A4229608EC0079AF25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 205E73A2229608EC0079AF25 /* Main.storyboard */; };
 		205E73A6229608ED0079AF25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 205E73A5229608ED0079AF25 /* Assets.xcassets */; };
 		205E73A9229608ED0079AF25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 205E73A7229608ED0079AF25 /* LaunchScreen.storyboard */; };
+		205E73B122960E890079AF25 /* starfield.sks in Resources */ = {isa = PBXBuildFile; fileRef = 205E73B022960E890079AF25 /* starfield.sks */; };
+		205E73B322960E8F0079AF25 /* explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 205E73B222960E8F0079AF25 /* explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		205E73A5229608ED0079AF25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		205E73A8229608ED0079AF25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		205E73AA229608ED0079AF25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		205E73B022960E890079AF25 /* starfield.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = starfield.sks; sourceTree = "<group>"; };
+		205E73B222960E8F0079AF25 /* explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				205E73A5229608ED0079AF25 /* Assets.xcassets */,
 				205E73A7229608ED0079AF25 /* LaunchScreen.storyboard */,
 				205E73AA229608ED0079AF25 /* Info.plist */,
+				205E73B022960E890079AF25 /* starfield.sks */,
+				205E73B222960E8F0079AF25 /* explosion.sks */,
 			);
 			path = spacerace;
 			sourceTree = "<group>";
@@ -131,6 +137,8 @@
 				205E73A4229608EC0079AF25 /* Main.storyboard in Resources */,
 				205E739B229608EC0079AF25 /* GameScene.sks in Resources */,
 				205E73A6229608ED0079AF25 /* Assets.xcassets in Resources */,
+				205E73B322960E8F0079AF25 /* explosion.sks in Resources */,
+				205E73B122960E890079AF25 /* starfield.sks in Resources */,
 				205E73A9229608ED0079AF25 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
